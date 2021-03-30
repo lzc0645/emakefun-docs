@@ -88,6 +88,7 @@ nav:
         - 手势传感器: sensors/smart_module/gestureRecognitionSensor.md
         - LD3320语音识别模块: sensors/smart_module/ld3320.md
         - MPU6050六轴陀螺仪: sensors/sensors/mpu6050Sensor.md
+        - MQTT物联网模块：sensors/smart_module
       
       - 配件: micro_bit/IObit.md
     - Micro:bit产品:
